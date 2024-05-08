@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @khrnchnv
 - 👀 I’m interested in full-stack web development
-- 🌱 I’m currently learning typescript, react, and nextjs
+- 🌱 I’m currently learning nextjs and docker
 - 💞️ I’m looking to collaborate on local open-source projects
-- 📫 How to reach me ...
 - ⚡ Fun fact: i play dota 2
 
 <!---
